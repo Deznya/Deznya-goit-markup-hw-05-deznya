@@ -584,7 +584,6 @@ padding-bottom: 27px;
 
 .button-filter {
   padding: 6px 22px;
-
   font-weight: 500;
   line-height: 1.62;
   letter-spacing: 0.03em;
@@ -604,6 +603,7 @@ padding-bottom: 27px;
   top: 0;
   left: 0;
   width: 100%;
+  padding: 63px 24px;
   background: var(--button-background);
   color: var(--bg-header);
 }
