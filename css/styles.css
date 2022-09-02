@@ -603,9 +603,13 @@ padding-bottom: 27px;
   top: 0;
   left: 0;
   width: 100%;
-  padding: 63px 24px;
-  background: var(--button-background);
+  padding: 24px 63px;
+  background: rgba(33, 150, 243, 0.9);
   color: var(--bg-header);
+}
+
+.over-thumb {
+position: relative;
 }
 
 .card-filter {
@@ -623,7 +627,6 @@ padding-bottom: 27px;
 }
 
 .list-card-link{
-  position: relative;
   display: block;
 }
 .list-card-link:hover,
